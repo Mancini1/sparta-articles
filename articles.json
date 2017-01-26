@@ -29,12 +29,15 @@
     "course": "sdet-7",
     "title": "The Code Behind Code",
     "url": "https://medium.com/@gharris_46002/the-code-behind-code-f4af5a804336#.u8wf0kcil"
-  } 
+  },{
+     "author": "Christopher Tsoi",
+     "course": "webdev-3",
+     "title": "Future Imperfect — Automation",
+     "url": "https://medium.com/@chrisjtsoi.work/future-imperfect-automation-4ecdce50999c#.3umi4vs89"
+   },{
+    "author": "Mohammed Usman Khan",
+    "course": "sdet-7",
+    "title": "IoT, Ubiquity, Machines. Do you know what’s coming?",
+    "url": "https://medium.com/@mrmukhan/iot-and-its-architecture-96f88ae43217#.35wnhgg0w"
+  }
 ]
-
-{
-  "author": "Mohammed Usman Khan",
-  "course": "sdet-7",
-  "title": "IoT, Ubiquity, Machines. Do you know what’s coming?",
-  "url": "https://medium.com/@mrmukhan/iot-and-its-architecture-96f88ae43217#.35wnhgg0w"
-}
